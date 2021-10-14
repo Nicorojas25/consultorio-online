@@ -1,0 +1,26 @@
+.active {
+  margin-top: 4px;
+}
+/* Element | http://127.0.0.1:5500/navbar.html */
+
+li.nav-item:nth-child(2) > a:nth-child(1) {
+  margin-top: 4px;
+}
+
+/* Element | http://127.0.0.1:5500/navbar.html# */
+
+li.nav-item:nth-child(3) > a:nth-child(1) {
+  margin-top: 4px;
+}
+
+/* Element | http://127.0.0.1:5500/navbar.html# */
+
+li.nav-item:nth-child(4) > a:nth-child(1) {
+  margin-top: 4px;
+}
+
+/* Element | http://127.0.0.1:5500/navbar.html# */
+
+li.nav-item:nth-child(5) > a:nth-child(1) {
+  margin-top: 4px;
+}
